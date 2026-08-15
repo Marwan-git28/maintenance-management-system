@@ -77,3 +77,16 @@ Selected screenshots from the maintenance documentation workbook are provided be
 ### Maintenance History
 ![Maintenance History](maintenance_history_ngrok.png)
 
+
+## Key Maintenance Capabilities
+
+- Asset Register & Asset Management
+- Preventive Maintenance Planning
+- PM Checklist & Inspection
+- Work Order Management
+- Corrective Maintenance
+- Maintenance History
+- Spare Part Inventory
+- Maintenance KPI, MTBF & MTTR
+- Root Cause Analysis (RCA) – 5 Why
+- Maintenance Reporting
