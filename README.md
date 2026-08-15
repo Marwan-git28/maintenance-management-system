@@ -62,3 +62,18 @@ The workbook is used as structured maintenance documentation to support asset tr
 ## Screenshots
 
 Selected screenshots from the maintenance documentation workbook are provided below to demonstrate the structure and practical implementation of the system.
+
+## Maintenance Dashboard
+
+### Mini CMMS Dashboard
+![Mini CMMS Dashboard](ngrok_dashboard.png)
+
+### Asset Management Dashboard
+![Asset Management Dashboard](asset_management_ngrok.png)
+
+### Work Order Dashboard
+![Work Order Dashboard](work_orders_ngrok.png)
+
+### Maintenance History
+![Maintenance History](maintenance_history_ngrok.png)
+
