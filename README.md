@@ -117,3 +117,13 @@ Selected screenshots from the maintenance documentation workbook are provided be
 #### Maintenance Reporting
 ![Maintenance Reporting](maintenance_reporting.png)
 
+
+The following sections present additional maintenance-related
+capabilities, including safety practices (K3) and technical
+drawing using AutoCAD.
+
+## K3 / Safety
+[next_time]
+
+## AutoCAD
+[next_time]
