@@ -90,3 +90,30 @@ Selected screenshots from the maintenance documentation workbook are provided be
 - Maintenance KPI, MTBF & MTTR
 - Root Cause Analysis (RCA) – 5 Why
 - Maintenance Reporting
+
+  ### Excel Maintenance Documentation
+
+#### Asset Register
+![Asset Register](asset_register.png)
+
+#### Work Order
+![Work Order](work_order.png)
+
+#### Preventive Maintenance
+![Preventive Maintenance](preventive_maintenance.png)
+
+#### PM Checklist
+![PM Checklist](pm_cheklist.png)
+
+#### Sparepart Inventory
+![Sparepart Inventory](sparepart_inventory.png)
+
+#### Maintenance KPI, MTBF & MTTR
+![Maintenance KPI, MTBF & MTTR](kpi_mtbf_mttr.png)
+
+#### RCA 5 Why
+![RCA 5 Why](rca_5why.png)
+
+#### Maintenance Reporting
+![Maintenance Reporting](maintenance_reporting.png)
+
