@@ -123,7 +123,21 @@ capabilities, including safety practices (K3) and technical
 drawing using AutoCAD.
 
 ## K3 / Safety
-[next_time]
 
-## AutoCAD
-[next_time]
+Basic maintenance safety practices, including electrical safety,
+PPE awareness, hazard identification, and safe work procedures.
+
+![K3 Safety](k3.png)
+
+## AutoCAD 2D
+
+Basic 2D technical drawing for maintenance documentation,
+including electrical panel layouts and power distribution drawings.
+
+### 3-Phase Electrical Panel
+
+![3-Phase Electrical Panel](panel_3p.png)
+
+### Power Control
+
+![Power Control](powercontrol.png)
